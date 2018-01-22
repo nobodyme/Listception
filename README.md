@@ -12,6 +12,8 @@ Collection of lists of all the lists related to programming I managed to find so
 - [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md)
 - [List of resources I found useful - reddit](https://www.reddit.com/r/learnprogramming/comments/7e6vc2/a_list_of_the_learning_resources_i_found_most/)
 - [Free resources for developers 2017](https://medium.com/dvlprstash/free-resources-for-developers-dec-2017-d23eddd83f5)
+- [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer)
+- [Awesome computer science opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 # Others
 
