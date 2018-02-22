@@ -2,6 +2,7 @@
 Collection of lists of all the lists related to programming I managed to find so far.
 
 - [Awesome lists of lists by sindresorhus](https://github.com/sindresorhus/awesome)
+- [Grow your technical skills with google](https://techdevguide.withgoogle.com/)
 - [Lists of lists by bayandin](https://github.com/bayandin/awesome-awesomeness)
 - [Lists of lists specifically for bash](https://github.com/awesome-lists/awesome-bash)
 - [All of linux softwares](https://github.com/LewisVo/Awesome-Linux-Software)
